@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeBusinessCard</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="rafli_iskandar_kavarera">Rafli Iskandar Kavarera</string>
+    <string name="student_freelancer_mobile_dev">Student, Freelancer, Mobile Dev</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="email_icon">Email Icon</string>
+</resources>
